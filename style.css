@@ -7,12 +7,14 @@ html {
 }
 h1{
   text-align: center;
+  color:rgb(146, 17, 186);
 }
 form {
   max-width: 300px;
   margin: 0 auto;
   font-family: 'Poppins', sans-serif;
   text-align: center;
+  color:rgb(255, 166, 0);
 }
 div {
   margin-bottom: 10px;
@@ -21,6 +23,7 @@ div {
 button{
   font-family: 'Poppins', sans-serif;
   cursor: pointer;
+  color:rgb(161, 27, 219);
 }
 
 #message{
